@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="66" viewBox="0 0 66 66">
+  <g id="Grupo_39" data-name="Grupo 39" transform="translate(1.5 1.5)">
+    <path id="Icon_feather-message-square" data-name="Icon feather-message-square" d="M67.5,46.5a7,7,0,0,1-7,7h-42l-14,14v-56a7,7,0,0,1,7-7h49a7,7,0,0,1,7,7Z" transform="translate(-4.5 -4.5)" fill="#1a73e8" stroke="#1a73e8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Icon_material-translate" data-name="Icon material-translate" d="M20.2,23.585l-4-3.953.047-.047A27.593,27.593,0,0,0,22.085,9.3H26.7V6.15H15.675V3h-3.15V6.15H1.5V9.284H19.093A24.748,24.748,0,0,1,14.1,17.726a24.641,24.641,0,0,1-3.638-5.276H7.312a27.66,27.66,0,0,0,4.693,7.182L3.988,27.539l2.237,2.236L14.1,21.9,19,26.8l1.2-3.213ZM29.063,15.6h-3.15L18.825,34.5h3.15l1.764-4.725H31.22L33,34.5h3.15ZM24.936,26.625l2.551-6.82,2.552,6.82Z" transform="translate(12.885 5.4)" fill="#fff"/>
+  </g>
+</svg>
